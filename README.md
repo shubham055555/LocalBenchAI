@@ -1,5 +1,11 @@
 # LocalBench AI
 
+## Live Demo
+
+Explore the interactive LocalBench AI dashboard:
+
+[Open LocalBench AI Dashboard](https://localbench-ai.streamlit.app/)
+
 LocalBench AI is a local Large Language Model (LLM) benchmarking system designed to evaluate and compare locally running AI models on real hardware.
 
 It measures model performance across:
