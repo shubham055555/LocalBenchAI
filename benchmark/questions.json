@@ -1,0 +1,211 @@
+[
+  {
+    "id": 1,
+    "category": "ML Fundamentals",
+    "question": "What is machine learning?"
+  },
+  {
+    "id": 2,
+    "category": "ML Fundamentals",
+    "question": "What is the difference between artificial intelligence and machine learning?"
+  },
+  {
+    "id": 3,
+    "category": "ML Fundamentals",
+    "question": "What is the difference between training data and test data?"
+  },
+  {
+    "id": 4,
+    "category": "ML Fundamentals",
+    "question": "What is a feature in machine learning?"
+  },
+  {
+    "id": 5,
+    "category": "ML Fundamentals",
+    "question": "What is a label in supervised learning?"
+  },
+
+  {
+    "id": 6,
+    "category": "Supervised Learning",
+    "question": "What is supervised learning?"
+  },
+  {
+    "id": 7,
+    "category": "Supervised Learning",
+    "question": "What is classification in machine learning?"
+  },
+  {
+    "id": 8,
+    "category": "Supervised Learning",
+    "question": "What is regression in machine learning?"
+  },
+  {
+    "id": 9,
+    "category": "Supervised Learning",
+    "question": "What is the difference between classification and regression?"
+  },
+  {
+    "id": 10,
+    "category": "Supervised Learning",
+    "question": "What is overfitting in machine learning?"
+  },
+
+  {
+    "id": 11,
+    "category": "Model Generalization",
+    "question": "What is underfitting in machine learning?"
+  },
+  {
+    "id": 12,
+    "category": "Model Generalization",
+    "question": "What is the bias-variance trade-off?"
+  },
+  {
+    "id": 13,
+    "category": "Model Generalization",
+    "question": "Why is generalization important in machine learning?"
+  },
+  {
+    "id": 14,
+    "category": "Model Generalization",
+    "question": "How can regularization reduce overfitting?"
+  },
+  {
+    "id": 15,
+    "category": "Model Generalization",
+    "question": "What is cross-validation?"
+  },
+
+  {
+    "id": 16,
+    "category": "Unsupervised Learning",
+    "question": "What is unsupervised learning?"
+  },
+  {
+    "id": 17,
+    "category": "Unsupervised Learning",
+    "question": "What is clustering in machine learning?"
+  },
+  {
+    "id": 18,
+    "category": "Unsupervised Learning",
+    "question": "What is the purpose of k-means clustering?"
+  },
+  {
+    "id": 19,
+    "category": "Unsupervised Learning",
+    "question": "What is dimensionality reduction?"
+  },
+  {
+    "id": 20,
+    "category": "Unsupervised Learning",
+    "question": "What is the difference between supervised and unsupervised learning?"
+  },
+
+  {
+    "id": 21,
+    "category": "Optimization",
+    "question": "What is gradient descent?"
+  },
+  {
+    "id": 22,
+    "category": "Optimization",
+    "question": "What is a learning rate in gradient descent?"
+  },
+  {
+    "id": 23,
+    "category": "Optimization",
+    "question": "What is a loss function?"
+  },
+  {
+    "id": 24,
+    "category": "Optimization",
+    "question": "Why can a learning rate that is too large cause problems?"
+  },
+
+  {
+    "id": 25,
+    "category": "Neural Networks",
+    "question": "What is a neural network?"
+  },
+  {
+    "id": 26,
+    "category": "Neural Networks",
+    "question": "What is a neuron in a neural network?"
+  },
+  {
+    "id": 27,
+    "category": "Neural Networks",
+    "question": "What is an activation function?"
+  },
+  {
+    "id": 28,
+    "category": "Neural Networks",
+    "question": "What is the purpose of hidden layers in a neural network?"
+  },
+
+  {
+    "id": 29,
+    "category": "Evaluation",
+    "question": "What is accuracy in classification?"
+  },
+  {
+    "id": 30,
+    "category": "Evaluation",
+    "question": "What is precision?"
+  },
+  {
+    "id": 31,
+    "category": "Evaluation",
+    "question": "What is recall?"
+  },
+  {
+    "id": 32,
+    "category": "Evaluation",
+    "question": "What is the F1-score?"
+  },
+
+  {
+    "id": 33,
+    "category": "Data",
+    "question": "Why is data preprocessing important in machine learning?"
+  },
+  {
+    "id": 34,
+    "category": "Data",
+    "question": "What is feature scaling?"
+  },
+  {
+    "id": 35,
+    "category": "Data",
+    "question": "Why do machine learning models need validation data?"
+  },
+
+  {
+    "id": 36,
+    "category": "Deep Learning",
+    "question": "What is deep learning?"
+  },
+  {
+    "id": 37,
+    "category": "Deep Learning",
+    "question": "What is the difference between machine learning and deep learning?"
+  },
+  {
+    "id": 38,
+    "category": "Deep Learning",
+    "question": "What is dropout in a neural network?"
+  },
+
+  {
+    "id": 39,
+    "category": "AI Concepts",
+    "question": "What is natural language processing?"
+  },
+  {
+    "id": 40,
+    "category": "AI Concepts",
+    "question": "What is the purpose of a validation dataset?"
+  }
+]

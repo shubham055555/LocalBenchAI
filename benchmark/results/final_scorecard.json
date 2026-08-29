@@ -1,0 +1,72 @@
+{
+  "benchmark": "LocalBench AI",
+  "version": "1.0",
+  "weights": {
+    "quality": 0.5,
+    "speed": 0.3,
+    "resource": 0.2
+  },
+  "scorecards": [
+    {
+      "model": "qwen3:1.7b",
+      "total_requests": 40,
+      "successful_requests": 40,
+      "success_rate": 100.0,
+      "average_latency_seconds": 16.13,
+      "average_tokens_per_second": 86.01,
+      "average_generated_tokens": 1332.25,
+      "average_vram_mb": 2231.47,
+      "average_ram_mb": 14443.64,
+      "average_quality_score": 4.69,
+      "quality_percentage": 93.84,
+      "quality_component": 93.84,
+      "speed_component": 100.0,
+      "resource_component": 100.0,
+      "final_score": 96.92,
+      "rank": 1
+    },
+    {
+      "model": "phi3:latest",
+      "total_requests": 40,
+      "successful_requests": 40,
+      "success_rate": 100.0,
+      "average_latency_seconds": 20.15,
+      "average_tokens_per_second": 16.44,
+      "average_generated_tokens": 308.18,
+      "average_vram_mb": 2822.38,
+      "average_ram_mb": 12894.28,
+      "average_quality_score": 4.28,
+      "quality_percentage": 85.66,
+      "quality_component": 85.66,
+      "speed_component": 19.11,
+      "resource_component": 5.18,
+      "final_score": 49.6,
+      "rank": 2
+    },
+    {
+      "model": "llama3:latest",
+      "total_requests": 40,
+      "successful_requests": 40,
+      "success_rate": 100.0,
+      "average_latency_seconds": 70.26,
+      "average_tokens_per_second": 6.39,
+      "average_generated_tokens": 436.27,
+      "average_vram_mb": 2854.68,
+      "average_ram_mb": 13230.28,
+      "average_quality_score": 4.54,
+      "quality_percentage": 90.84,
+      "quality_component": 90.84,
+      "speed_component": 7.43,
+      "resource_component": 0.0,
+      "final_score": 47.65,
+      "rank": 3
+    }
+  ],
+  "winners": {
+    "best_quality": "qwen3:1.7b",
+    "best_speed": "qwen3:1.7b",
+    "best_latency": "qwen3:1.7b",
+    "best_resource_efficiency": "qwen3:1.7b",
+    "best_overall": "qwen3:1.7b"
+  }
+}

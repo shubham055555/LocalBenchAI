@@ -1,0 +1,381 @@
+[
+  {
+    "question_id": 1,
+    "expected_concepts": [
+      "learning from data",
+      "patterns",
+      "predictions",
+      "training"
+    ]
+  },
+  {
+    "question_id": 2,
+    "expected_concepts": [
+      "artificial intelligence",
+      "machine learning",
+      "subset",
+      "data"
+    ]
+  },
+  {
+    "question_id": 3,
+    "expected_concepts": [
+      "training data",
+      "test data",
+      "unseen data",
+      "model evaluation"
+    ]
+  },
+  {
+    "question_id": 4,
+    "expected_concepts": [
+      "feature",
+      "input",
+      "attribute",
+      "prediction"
+    ]
+  },
+  {
+    "question_id": 5,
+    "expected_concepts": [
+      "label",
+      "target",
+      "output",
+      "supervised learning"
+    ]
+  },
+  {
+    "question_id": 6,
+    "expected_concepts": [
+      "supervised learning",
+      "labeled data",
+      "input",
+      "target"
+    ]
+  },
+  {
+    "question_id": 7,
+    "expected_concepts": [
+      "classification",
+      "categories",
+      "classes",
+      "prediction"
+    ]
+  },
+  {
+    "question_id": 8,
+    "expected_concepts": [
+      "regression",
+      "continuous",
+      "numeric",
+      "prediction"
+    ]
+  },
+  {
+    "question_id": 9,
+    "expected_concepts": [
+      "classification",
+      "regression",
+      "classes",
+      "continuous values"
+    ]
+  },
+  {
+    "question_id": 10,
+    "expected_concepts": [
+      "overfitting",
+      "training data",
+      "memorization",
+      "noise",
+      "generalization",
+      "unseen data"
+    ]
+  },
+  {
+    "question_id": 11,
+    "expected_concepts": [
+      "underfitting",
+      "simple model",
+      "patterns",
+      "poor performance",
+      "training data"
+    ]
+  },
+  {
+    "question_id": 12,
+    "expected_concepts": [
+      "bias",
+      "variance",
+      "model complexity",
+      "trade-off",
+      "generalization"
+    ]
+  },
+  {
+    "question_id": 13,
+    "expected_concepts": [
+      "generalization",
+      "unseen data",
+      "new data",
+      "performance"
+    ]
+  },
+  {
+    "question_id": 14,
+    "expected_concepts": [
+      "regularization",
+      "penalty",
+      "model complexity",
+      "overfitting"
+    ]
+  },
+  {
+    "question_id": 15,
+    "expected_concepts": [
+      "cross-validation",
+      "training",
+      "validation",
+      "multiple folds",
+      "model evaluation"
+    ]
+  },
+  {
+    "question_id": 16,
+    "expected_concepts": [
+      "unsupervised learning",
+      "unlabeled data",
+      "patterns",
+      "structure"
+    ]
+  },
+  {
+    "question_id": 17,
+    "expected_concepts": [
+      "clustering",
+      "groups",
+      "similarity",
+      "unlabeled data"
+    ]
+  },
+  {
+    "question_id": 18,
+    "expected_concepts": [
+      "k-means",
+      "clusters",
+      "centroids",
+      "similarity"
+    ]
+  },
+  {
+    "question_id": 19,
+    "expected_concepts": [
+      "dimensionality reduction",
+      "features",
+      "lower dimensions",
+      "information"
+    ]
+  },
+  {
+    "question_id": 20,
+    "expected_concepts": [
+      "supervised learning",
+      "unsupervised learning",
+      "labeled data",
+      "unlabeled data"
+    ]
+  },
+  {
+    "question_id": 21,
+    "expected_concepts": [
+      "gradient descent",
+      "optimization",
+      "loss",
+      "gradient",
+      "parameters"
+    ]
+  },
+  {
+    "question_id": 22,
+    "expected_concepts": [
+      "learning rate",
+      "step size",
+      "gradient descent",
+      "optimization"
+    ]
+  },
+  {
+    "question_id": 23,
+    "expected_concepts": [
+      "loss function",
+      "error",
+      "prediction",
+      "actual value",
+      "optimization"
+    ]
+  },
+  {
+    "question_id": 24,
+    "expected_concepts": [
+      "learning rate",
+      "too large",
+      "overshoot",
+      "minimum",
+      "gradient descent"
+    ]
+  },
+  {
+    "question_id": 25,
+    "expected_concepts": [
+      "neural network",
+      "neurons",
+      "layers",
+      "learn",
+      "patterns"
+    ]
+  },
+  {
+    "question_id": 26,
+    "expected_concepts": [
+      "neuron",
+      "inputs",
+      "weights",
+      "bias",
+      "activation"
+    ]
+  },
+  {
+    "question_id": 27,
+    "expected_concepts": [
+      "activation function",
+      "nonlinearity",
+      "neural network",
+      "output"
+    ]
+  },
+  {
+    "question_id": 28,
+    "expected_concepts": [
+      "hidden layers",
+      "features",
+      "patterns",
+      "neural network",
+      "representation"
+    ]
+  },
+  {
+    "question_id": 29,
+    "expected_concepts": [
+      "accuracy",
+      "correct predictions",
+      "total predictions",
+      "classification"
+    ]
+  },
+  {
+    "question_id": 30,
+    "expected_concepts": [
+      "precision",
+      "true positives",
+      "false positives",
+      "predicted positive"
+    ]
+  },
+  {
+    "question_id": 31,
+    "expected_concepts": [
+      "recall",
+      "true positives",
+      "false negatives",
+      "actual positive"
+    ]
+  },
+  {
+    "question_id": 32,
+    "expected_concepts": [
+      "F1-score",
+      "precision",
+      "recall",
+      "harmonic mean"
+    ]
+  },
+  {
+    "question_id": 33,
+    "expected_concepts": [
+      "data preprocessing",
+      "cleaning",
+      "missing values",
+      "scaling",
+      "model performance"
+    ]
+  },
+  {
+    "question_id": 34,
+    "expected_concepts": [
+      "feature scaling",
+      "normalization",
+      "standardization",
+      "feature values",
+      "scale"
+    ]
+  },
+  {
+    "question_id": 35,
+    "expected_concepts": [
+      "validation data",
+      "model selection",
+      "hyperparameters",
+      "unseen data",
+      "overfitting"
+    ]
+  },
+  {
+    "question_id": 36,
+    "expected_concepts": [
+      "deep learning",
+      "neural networks",
+      "multiple layers",
+      "representation",
+      "features"
+    ]
+  },
+  {
+    "question_id": 37,
+    "expected_concepts": [
+      "machine learning",
+      "deep learning",
+      "neural networks",
+      "multiple layers",
+      "features"
+    ]
+  },
+  {
+    "question_id": 38,
+    "expected_concepts": [
+      "dropout",
+      "randomly",
+      "neurons",
+      "training",
+      "overfitting"
+    ]
+  },
+  {
+    "question_id": 39,
+    "expected_concepts": [
+      "natural language processing",
+      "human language",
+      "text",
+      "speech",
+      "computers"
+    ]
+  },
+  {
+    "question_id": 40,
+    "expected_concepts": [
+      "validation dataset",
+      "model selection",
+      "hyperparameters",
+      "unseen data",
+      "overfitting"
+    ]
+  }
+]

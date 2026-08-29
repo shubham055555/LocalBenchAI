@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.env
+.env.*
+
+.vscode/
+.idea/
+
+benchmark/results/benchmark_results.json
+benchmark/results/quality_results.json
+benchmark/results/benchmark_results.tmp
+
+*.log
