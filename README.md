@@ -700,4 +700,6 @@ MIT License
 
 ## Author
 
+Shubham
+
 Built as a local AI/ML engineering project focused on practical LLM benchmarking, hardware-aware evaluation, and local model selection.
